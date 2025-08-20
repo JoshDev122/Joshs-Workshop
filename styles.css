@@ -641,3 +641,4 @@ html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); f
 .lb-prev { left: 16px; }
 .lb-next { right: 16px; }
 .lb-close:hover, .lb-prev:hover, .lb-next:hover { background: rgba(15,23,42,.9); }
+
